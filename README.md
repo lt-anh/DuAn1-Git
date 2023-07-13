@@ -24,7 +24,7 @@
 <img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136530.png" alt="Logo JavaScript">
 <img height="36" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Logo Java">
 <img height="36" src="https://cdn-icons-png.flaticon.com/512/536/536452.png" alt="Logo Github">
-<img height="36" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="Logo Git">
+<img height="36" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Logo Git">
 
 
 
